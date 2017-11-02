@@ -1,2 +1,2 @@
-require './caesar'
+require 'caesar.rb'
 run Sinatra.Application
